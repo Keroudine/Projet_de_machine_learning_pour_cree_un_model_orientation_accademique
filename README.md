@@ -1,3 +1,3 @@
-# Développement d'un modèle prédictif d'orientation académique intégré dans une application:
+# Développement d'un modèle prédictif d'orientation académique intégré dans une application: 
 
 Le projet de développement d'un modèle prédictif d'orientation académique intégré dans une application web intuitive représente une synergie entre la collecte de données, la modélisation prédictive et l'intégration technologique. En combinant les compétences des sciences humaines, des mathématiques et de l'informatique, ce projet vise à offrir une solution innovante pour guider de manière précise et personnalisée les choix éducatifs des utilisateurs. De la création d'un questionnaire méthodologique à l'application des algorithmes d'apprentissage supervisé, en passant par l'intégration dans une interface web conviviale, ce projet illustre l'application concrète des connaissances acquises au sein du Master MIASHS pour répondre aux besoins concrets de l'orientation académique.
